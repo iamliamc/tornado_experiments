@@ -1,0 +1,8 @@
+*.orig
+*.pyc
+.pytest_cache
+.coverage
+.DS_Store
+.vscode
+htmlcov
+venv
